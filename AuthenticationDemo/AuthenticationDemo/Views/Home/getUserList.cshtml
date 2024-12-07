@@ -1,0 +1,47 @@
+﻿@model IEnumerable<AuthenticationDemo.Models.user>
+
+@{
+    ViewBag.Title = "getUserList";
+}
+
+<h2>getUserList</h2>
+
+<p>
+    <a href="@Url.Action("Signup", "Account")" class="btn btn-primary">Create New</a>
+    
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.password)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.username)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.password)
+        </td>
+        <td>
+            @if (User.IsInRole("Admin"))
+            {
+
+                <button onclick="location.href='@Url.Action("Edit", "Account", new { id = item.Id })'">Edit</button>
+                <button onclick="location.href='@Url.Action("UserDetails", "Account", new { id = item.Id })'">Deitails</button>
+                <button onclick="location.href='@Url.Action("Delete", "Account", new { id = item.Id })'">Delete</button>
+
+
+                
+            }
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,76 @@
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\roslyn\csc.exe
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\roslyn\System.Collections.Immutable.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\roslyn\vbc.exe
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\roslyn\VBCSCompiler.exe
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\roslyn\VBCSCompiler.exe.config
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\AuthenticationDemo.dll.config
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\AuthenticationDemo.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\AuthenticationDemo.pdb
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\EntityFramework.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\EntityFramework.SqlServer.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Helpers.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Mvc.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Razor.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Webpages.Deployment.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Webpages.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Webpages.Razor.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\EntityFramework.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\EntityFramework.SqlServer.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Razor.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Webpages.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Webpages.Deployment.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Webpages.Razor.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Helpers.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Mvc.xml
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\obj\Debug\AuthenticationDemo.dll
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\obj\Debug\AuthenticationDemo.pdb
+c:\users\asadm\onedrive\documents\visual studio 2015\Projects\AuthenticationDemo\AuthenticationDemo\obj\Debug\AuthenticationDemo.csprojResolveAssemblyReference.cache
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\roslyn\csc.exe
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\roslyn\vbc.exe
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\AuthenticationDemo.dll.config
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\AuthenticationDemo.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\AuthenticationDemo.pdb
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\EntityFramework.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Helpers.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Mvc.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Razor.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Webpages.Deployment.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Webpages.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Webpages.Razor.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\EntityFramework.xml
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Razor.xml
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Webpages.xml
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Webpages.Deployment.xml
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Webpages.Razor.xml
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Helpers.xml
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\bin\System.Web.Mvc.xml
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\obj\Debug\AuthenticationDemo.csproj.AssemblyReference.cache
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\obj\Debug\AuthenticationDemo.csproj.CoreCompileInputs.cache
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\obj\Debug\Authenti.C0EE13F5.Up2Date
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\obj\Debug\AuthenticationDemo.dll
+C:\Users\bhupesh\Downloads\Authentication\AuthenticationDemo\AuthenticationDemo\obj\Debug\AuthenticationDemo.pdb
