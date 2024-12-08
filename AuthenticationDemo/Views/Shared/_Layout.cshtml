@@ -26,7 +26,7 @@
                     <li>@Html.ActionLink("Services", "Service", "Home")</li>
                                           @if (User.Identity.IsAuthenticated)
                                           {
-                          <li><a href="">Dear @User.Identity.Name</a></li>
+                          <li><a href="">Welcome @User.Identity.Name</a></li>
                          <li>@Html.ActionLink("Logout", "Logout", "Account")</li>
                                               if (User.IsInRole("Admin") || User.IsInRole("Customer"))
                                               {

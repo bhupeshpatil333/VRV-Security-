@@ -67,26 +67,26 @@ namespace AuthenticationDemo.Controllers
 
         public ActionResult UserDetails(int id)
         {
-            // Fetch user details by ID
-            var user = db.users.Find(id); // Replace `db.users` with your actual DbSet
+           
+            var user = db.users.Find(id); 
             if (user == null)
             {
-                return HttpNotFound(); // Handle user not found scenario
+                return HttpNotFound(); 
             }
-            return View(user); // Pass user details to the view
+            return View(user); 
         }
 
         public ActionResult getUserList()
         {
-            var users = db.users.ToList(); // Replace 'db.Users' with your data source
-            return View(users); // Ensure 'users' is not null and contains valid data
+            var users = db.users.ToList(); 
+            return View(users); 
         }
 
 
         // GET: Edit
         public ActionResult Edit(int id)
         {
-            var user = db.users.Find(id); // Replace 'db.Users' with your actual logic
+            var user = db.users.Find(id); 
             if (user == null)
             {
                 return HttpNotFound();
@@ -100,28 +100,28 @@ namespace AuthenticationDemo.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = db.users.Find(id);  // Find user in your data source
+                var user = db.users.Find(id);  
                 if (user == null)
                 {
                     return HttpNotFound();
                 }
 
-                // Update the user properties
+                
                 user.username = updatedUser.username;
                 user.password = updatedUser.password;
-                // Save the changes to your data source
+                
                 db.SaveChanges();
 
                 return RedirectToRoute(new { controller = "Home", action = "getUserList" });
 
             }
 
-            return View(updatedUser);  // If validation fails, return to the Edit view with the model
+            return View(updatedUser);  
         }
 
         public ActionResult Delete(int id)
         {
-            var user = db.users.Find(id); // Replace 'db.Users' with your actual logic
+            var user = db.users.Find(id); 
             if (user == null)
             {
                 return HttpNotFound();
@@ -139,16 +139,16 @@ namespace AuthenticationDemo.Controllers
                 return HttpNotFound();
             }
 
-            // Step 1: Delete related role records first
+            
             var roles = db.roles.Where(r => r.UserId == id).ToList();
-            db.roles.RemoveRange(roles);  // Remove related roles
+            db.roles.RemoveRange(roles);  
 
-            // Step 2: Now delete the user
+            
             db.users.Remove(user);
-            db.SaveChanges();  // Commit changes
+            db.SaveChanges();  
 
-            // Step 3: Redirect back to the user list
-            return RedirectToAction("getUserList", "Home");  // Adjust controller and action name as needed
+           
+            return RedirectToAction("getUserList", "Home"); 
         }
 
 
